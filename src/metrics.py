@@ -1,8 +1,7 @@
 import numpy as np
-
 from scipy.stats import ks_2samp
-
 from sklearn.metrics import roc_auc_score
+
 
 def ks(y_true, y_score) -> float:
     y_true, y_score = np.asarray(y_true), np.asarray(y_score)
