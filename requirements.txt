@@ -1,4 +1,4 @@
-r requirements-api.txt
+-r requirements-api.txt
 scipy
 mlflow
 xlrd
