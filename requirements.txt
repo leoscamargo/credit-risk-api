@@ -1,0 +1,9 @@
+r requirements-api.txt
+scipy
+mlflow
+xlrd
+matplotlib
+seaborn
+jupyter
+pytest
+httpx
