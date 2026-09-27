@@ -1,5 +1,7 @@
 # credit-risk-api
 
+[![CI](https://github.com/leoscamargo/credit-risk-api/actions/workflows/ci.yml/badge.svg)](https://github.com/leoscamargo/credit-risk-api/actions/workflows/ci.yml)
+
 # Exemplo de uso
 
 ```bash
