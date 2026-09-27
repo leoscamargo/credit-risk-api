@@ -1,4 +1,4 @@
-# Credit Risk API — from model to production
+# Credit Risk API
 
 [![CI](https://github.com/leoscamargo/credit-risk-api/actions/workflows/ci.yml/badge.svg)](https://github.com/leoscamargo/credit-risk-api/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
@@ -213,7 +213,3 @@ Docker · GitHub Actions · AWS EC2
 
 Yeh, I. C. (2009). *Default of Credit Card Clients* [Dataset]. UCI Machine Learning Repository.
 30,000 credit card customers with six months of payment history.
-
----
-
-**Leonardo Camargo** · [GitHub](https://github.com/leoscamargo)
