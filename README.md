@@ -53,8 +53,8 @@ Evaluated on a stratified hold-out set of 6,000 customers.
 
 Full analysis in [`notebooks/`](notebooks/).
 
-- **Recent payment behavior is the strongest signal.** Default rate goes from ~13% for customers
-  who paid on time last month to ~34% with one month of delay and ~69% with two months.
+- **Recent payment behavior is the strongest signal.** Default rate goes from 13–17% for customers with no current delay to
+  ~69% with two months of delay and ~72% with three or more.
 - **Frequency matters, not only recency.** The more months a customer was late in the last six,
   the higher the default rate — this motivated the `meses_em_atraso` feature.
 - **Trend matters.** Customers who *started* being late recently behave differently from those
